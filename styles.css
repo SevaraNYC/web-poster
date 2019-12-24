@@ -1,0 +1,119 @@
+@import "reset.css";
+
+.fon {
+  z-index: 1;
+  top: 0px;
+  left: auto;
+}
+
+.okno {
+  position: absolute;
+  z-index: 99;
+  top: 1703px;
+  left: 660px;
+}
+
+.okno:hover {
+  z-index: 1;
+
+}
+.okno1 {
+  position: absolute;
+  z-index: 79;
+  top: 1807px;
+  left: 769px;
+}
+.okno1:hover {
+  z-index: 1;
+
+}
+
+.okno2 {
+  position: absolute;
+  z-index: 69;
+  top: 1908px;
+  left: 877px;
+}
+
+.okno2:hover {
+  z-index: 1;
+
+}
+
+.okno3 {
+  position: absolute;
+  z-index: 59;
+  top: 2009px;
+  left: 987px;
+}
+.okno3:hover {
+  z-index: 1;
+
+}
+
+.okno4 {
+  position: absolute;
+  z-index: 49;
+  top: 2108px;
+  left: 1092px;
+}
+.okno4:hover {
+  z-index: 1;
+
+}
+
+.Frame {
+  position: absolute;
+  z-index: 99;
+  top: 521px;
+  left: 898px;
+}
+
+.Frame1 {
+  position: absolute;
+  z-index: 99;
+  top: 1445px;
+  left: 1418px;
+}
+
+.Frame2 {
+  position: absolute;
+  z-index: 39;
+  top: 2783px;
+  left: 1118px;
+}
+
+.frame3 {
+  position: absolute;
+  z-index: 99;
+  top: 3466px;
+  left: 1234px;
+}
+
+.Vector {
+  position: absolute;
+  z-index: 49;
+  top: 3321px;
+  left: 1143px;
+}
+
+.slovo {
+  position: absolute;
+  z-index: 99;
+  top: 4159px;
+  left: 115px;
+}
+
+.slovo1 {
+  position: absolute;
+  z-index: 99;
+  top: 4159px;
+  left: 831px;;
+}
+
+.slovo2 {
+  position: absolute;
+  z-index: 99;
+  top: 4159px;
+  left: 1474px;
+}
